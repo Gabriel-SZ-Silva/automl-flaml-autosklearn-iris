@@ -1,0 +1,5 @@
+flaml[automl]
+pandas
+scikit-learn
+matplotlib
+notebook
